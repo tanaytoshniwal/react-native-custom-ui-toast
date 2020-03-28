@@ -13,7 +13,7 @@ A simple custom toast library. **(Currently only availabe for android devices)**
 ## Example Application
 Checkout the [GitHub page](https://github.com/tanaytoshniwal/react-native-custom-ui-toast/tree/master/example) to get the code of this application
 
-![screenshots](https://github.com/tanaytoshniwal/react-native-custom-ui-toast/blob/master/screenshots/react-native-custom-ui-toast.gif)
+<img src="https://github.com/tanaytoshniwal/react-native-custom-ui-toast/blob/master/screenshots/react-native-custom-ui-toast.gif" width="400" />
 
 ## Usage
 Import the library in your component by adding this line on top:
